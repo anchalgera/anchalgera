@@ -6,9 +6,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anchalgera&label=Profile%20views&color=0e75b6&style=flat" alt="anchalgera" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anchalgera" alt="anchalgera" /></a> </p>
 
 - 🔭 I’m currently in masters [in Koblenz Germany](https://www.uni-koblenz-landau.de/en/studies/before-studying/our-degree-programs/masters-degree-programs/mathematical-modeling)
 
