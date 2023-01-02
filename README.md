@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **data science, machine learning and engineering web and data intensive systems**
 
-- 👨‍💻 All of my projects are available at [https://anchalguptachp.wixsite.com/anchal-gera](https://anchalguptachp.wixsite.com/anchal-gera)
+- 👨‍💻 All of my previous works are available at [https://anchalguptachp.wixsite.com/anchal-gera](https://anchalguptachp.wixsite.com/anchal-gera)
 
 - 📝 I regularly write articles on [https://anchalguptachp.wixsite.com/anchal-gera](https://anchalguptachp.wixsite.com/anchal-gera)
 
