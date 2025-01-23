@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anchal Gera</h1>
-<h3 align="center">A passionate student of Data science, Physics and maths</h3>
+<h3 align="center">A passionate student of maths</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -9,15 +9,11 @@
 
 - 🔭 I’m currently in masters [in Koblenz Germany](https://www.uni-koblenz-landau.de/en/studies/before-studying/our-degree-programs/masters-degree-programs/mathematical-modeling)
 
-- 🌱 I’m currently learning **data science, machine learning and engineering web and data intensive systems**
-
-- 👨‍💻 All of my previous works are available at [https://anchalguptachp.wixsite.com/anchal-gera](https://anchalguptachp.wixsite.com/anchal-gera)
-
-- 📝 I regularly write articles on [https://anchalguptachp.wixsite.com/anchal-gera](https://anchalguptachp.wixsite.com/anchal-gera)
+- 🌱 I’m currently learning **c++, python, optimization and differential equations**
 
 - 📫 How to reach me **anchalgupta.chp@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/anchalgera?tab=repositories](https://github.com/anchalgera?tab=repositories)
+- 📄 Know about my experiences [[https://github.com/anchalgera?tab=repositories](https://github.com/anchalgera?tab=repositories](https://www.linkedin.com/in/anchal-gera-068ba6166/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
